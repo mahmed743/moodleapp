@@ -23,5 +23,9 @@
         "moodle.config.json": "jsonc",
         "moodle.config.*.json": "jsonc",
     },
+    "i18n-ally.localesPaths": [
+        "local_moodleappbehat/lang",
+        "src/addons/messages"
+    ],
 
 }
